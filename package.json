@@ -1,0 +1,11 @@
+{
+  "name": "websphere-password-encoder-decoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.spec.js"
+  },
+  "author": "Jonas Lalin",
+  "license": "ISC"
+}
